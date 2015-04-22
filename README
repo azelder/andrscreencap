@@ -1,5 +1,8 @@
 This file will need to be cloned into your local bin directory and given execute permissions by the user. 
 
+execute permissions can be given with this command:
 $ chmod u+x andrscreencap
 
+You should also add this to your path
 
+When it is run it will take a screenshot of a connected android device and put the screenshot on your HomeDesktop
